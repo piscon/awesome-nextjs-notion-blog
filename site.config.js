@@ -72,7 +72,7 @@ module.exports = {
   },
   showPageAsideSocials: true,
   footCounterList: [
-    '6a76fdd9ec6d4ae2855aa790d620eec4',
+    'e78bc0de72e8489e9591c26236e3b658',
     '651765de-6a0f-4a72-9f91-86f26381aef3'
   ]
 }
